@@ -1,0 +1,119 @@
+body{
+	background-image:url("bg.jpg");
+	
+}
+button{
+	font-size:15px;
+	Margin-left:500px;
+}
+#reg{
+	font-size:50px;
+	padding-top: 5px;
+	margin-left: 260px;
+	border:5px ridge #C6EBC9;
+	width:41%;
+	background: #555555;
+	color:#D9E4DD;
+	
+}
+#ret{
+	font-size:30px;
+	margin-top:-30px;
+	padding-left: 190px;
+	color:#D9E4DD;
+	background:#555555;
+}
+div.form1{
+	margin-left: 100px;
+	color:#D9E4DD;
+	background:#555555;
+	margin-top:-20px;
+	padding-top:1px;
+	padding-left:10px;
+	height:60%;
+	width:80%
+}
+div.pls{
+	background-color:#F0E2D0;
+	border:15px groove #70AF85;
+	height:80%;
+	width:50%;
+	margin-left:500px;
+	
+}
+input[type=text]{
+	margin-top:15px;
+	border-radius:5px;
+	font-size:25px;
+	margin-left:20px;
+	margin-bottom:20px;
+	height:10%;
+}
+input[type=text1]{
+	border-radius:5px;
+	font-size:25px;
+	margin-left:25px;
+	margin-bottom:20px;
+	height:10%;
+}
+input[type=text2]{
+	margin-left:20px;
+	border-radius:5px;
+	font-size:25px;
+	margin-bottom:20px;
+	height:10%;
+	width:93%;
+}
+input[type=text3]{
+	border-radius:5px;
+	font-size:25px;
+	margin-bottom:20px;
+	height:10%;
+	margin-left:23px;
+	width:93%;
+}
+input[type=password]{
+	padding-top:-10px;
+	font-size:25px;
+	border-radius:5px;
+	margin-left:23px;
+	height:10%;
+	width:93%;
+	
+}
+div.bd{
+	font-size:20px;
+	margin-left:23px;
+	margin-top:5px;
+
+}
+select{
+	font-size:25px;
+	border-radius:5px;
+	margin-top:-15;
+	width:20%;
+	margin-left:25px;
+}
+div.ge{
+	font-size:20px;
+	margin-left:23px;
+	margin-top:5px;
+
+}
+input[type=text4]{
+	font-size:25px;
+	border-radius:5px;
+	margin-top:-15;
+	width:50%;
+	margin-left:25px;
+}
+#sub{
+	font-size:25px;
+	Margin-top:-35px;
+	margin-left:15px;
+}
+
+
+
+
+
